@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+### NAME : D.Nitish Adavan
+### REG NO :24901049
+# EXPERIMENT 1 - Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,11 +60,15 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-[porteus experiment1.pdf](https://github.com/user-attachments/files/17474708/porteus.experiment1.pdf)
+
+![Screenshot 2024-10-22 161344](https://github.com/user-attachments/assets/af2996e6-daa1-4a20-94cd-d893e74d8a76)
 
 ## PROGRAM
 ![Screenshot 2024-10-22 154851](https://github.com/user-attachments/assets/606ec4a1-c044-41bb-b24d-49a95e5aefc0)
 
 ## OUTPUT
+![Screenshot 2024-10-22 155020](https://github.com/user-attachments/assets/292819e1-1e60-4082-bcaa-066070d2cea4)
+![Screenshot 2024-10-22 154929](https://github.com/user-attachments/assets/f2cce0ef-00c3-4764-b632-c962d4a96808)
+
 
 ## RESULT
