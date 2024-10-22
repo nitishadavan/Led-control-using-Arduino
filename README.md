@@ -58,8 +58,10 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+[porteus experiment1.pdf](https://github.com/user-attachments/files/17474708/porteus.experiment1.pdf)
 
 ## PROGRAM
+![Screenshot 2024-10-22 154851](https://github.com/user-attachments/assets/606ec4a1-c044-41bb-b24d-49a95e5aefc0)
 
 ## OUTPUT
 
