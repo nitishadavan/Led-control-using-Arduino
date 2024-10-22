@@ -61,7 +61,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-![Screenshot 2024-10-22 161344](https://github.com/user-attachments/assets/af2996e6-daa1-4a20-94cd-d893e74d8a76)
+(https://github.com/user-attachments/assets/af2996e6-daa1-4a20-94cd-d893e74d8a76)
 
 ## PROGRAM
 ![Screenshot 2024-10-22 154851](https://github.com/user-attachments/assets/606ec4a1-c044-41bb-b24d-49a95e5aefc0)
