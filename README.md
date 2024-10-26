@@ -59,7 +59,8 @@ Security System Indicator </br>
 Emergency Signaling System </br>
 Weighing Machines </br>
 ## CIRCUIT DIAGRAM
-## PROG![Screenshot 2024-10-26 104946](https://github.com/user-attachments/assets/14104841-35e4-4721-96ab-28378cea7c53)
+## PROGRAMME
+![Screenshot 2024-10-26 104946](https://github.com/user-attachments/assets/14104841-35e4-4721-96ab-28378cea7c53)
 RAM
 ![Screenshot 2024-10-22 154851](https://github.com/user-attachments/assets/606ec4a1-c044-41bb-b24d-49a95e5aefc0)
 
