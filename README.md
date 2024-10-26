@@ -76,5 +76,5 @@ LED OFF
 <img src="https://github.com/user-attachments/assets/bacd01e7-3fb4-450d-8ec8-a19837cdb284" width="600" height="500"/>
 
 ## RESULT
-Designed and implemented a system for LED control using an Arduino microcontroller and a push button.sucessfully
+Designed and implemented a system for LED control using an Arduino microcontroller and a push button sucessfully
 
