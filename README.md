@@ -68,6 +68,8 @@ Weighing Machines </br>
 ARDUINO ON
 
 <img src="https://github.com/user-attachments/assets/0d7d7f7a-f665-4eb2-97bb-7079673d123a" width="600" height="500"/>
+
+
 ARDUINO OFF
 
 <img src="https://github.com/user-attachments/assets/bacd01e7-3fb4-450d-8ec8-a19837cdb284" width="600" height="500"/>
