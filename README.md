@@ -59,14 +59,14 @@ Security System Indicator </br>
 Emergency Signaling System </br>
 Weighing Machines </br>
 ## CIRCUIT DIAGRAM
-![Screenshot 2024-10-26 104946](https://github.com/user-attachments/assets/14104841-35e4-4721-96ab-28378cea7c53)
+<img src="https://github.com/user-attachments/assets/14104841-35e4-4721-96ab-28378cea7c53" width="400" height="500"/>
 
 ## PROGRAMME
-![Screenshot 2024-10-22 154851](https://github.com/user-attachments/assets/606ec4a1-c044-41bb-b24d-49a95e5aefc0)
+<img src="https://github.com/user-attachments/assets/606ec4a1-c044-41bb-b24d-49a95e5aefc0" width="400" height="500"/>
 
 ## OUTPUT
-![Screenshot 2024-10-26 104248](https://github.com/user-attachments/assets/0d7d7f7a-f665-4eb2-97bb-7079673d123a)
-![Screenshot 2024-10-26 104329](https://github.com/user-attachments/assets/bacd01e7-3fb4-450d-8ec8-a19837cdb284)
+<img src="https://github.com/user-attachments/assets/0d7d7f7a-f665-4eb2-97bb-7079673d123a" width="400" height="500"/>
+<img src="https://github.com/user-attachments/assets/bacd01e7-3fb4-450d-8ec8-a19837cdb284" width="400" height="500"/>
 
 ## RESULT
 
